@@ -11,7 +11,7 @@ I'm a software engineer based in Takamatsu, Kagawa, Japan. I currently work as a
 
 # Experiences
 
-- Software Development
+- Software Development:
   - Feature development, bug fixing, unit testing
 - Software Testing:
   - Design and manage automation tests, plan and execute manual tests
