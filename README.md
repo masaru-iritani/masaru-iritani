@@ -1,11 +1,11 @@
 # 入谷 優 (Masaru Iritani)
 
-I'm a software engineer based in Takamatsu, Kagawa, Japan. I currently work as a full-stack engineer, developing features (Go + PostgreSQL + TypeScript + Next.js) and performing data analysis (BigQuery) for employee benefits web services. I have experience in test design and automation (C#) for a Japanese input system, data analysis (Azure Data Lake + Power BI), software development (C++ Win32 API), and engaging with user communities.
+I'm a software engineer based in Takamatsu, Kagawa, Japan. I currently work as a full-stack engineer, developing features (Go + PostgreSQL + TypeScript) and performing data analysis (BigQuery) for employee benefits web services. I have experience in test design and automation (C#) for a Japanese input system, data analysis (Azure Data Lake + Power BI), software development (C++ Win32 API), and engaging with user communities.
 
 # Skills
 
 - Languages: Japanese (native), English (business level)
-- Programming: C++ (3+ years), C# (3+ years), Go (1 year), TypeScript + Next.js (1 year), Python
+- Programming: C++ (3+ years), C# (3+ years), Go (2+ years), TypeScript (2+ years), Python
 - Scripting: Bash, PowerShell, JScript
 - Data Processing: T-SQL, Kusto, PostgreSQL, BigQuery
 
